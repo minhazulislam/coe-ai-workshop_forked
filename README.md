@@ -5,6 +5,6 @@ This repository contains general information about the College of Engineering (C
 ## Agenda
 
 - [Module 1 - AI and Software Engineering Tools](Agenda/Module1.pdf)
-- [Module 2 - Foundations of Machine ](Agenda/Module2.pdf)
+- [Module 2 - Foundations of Machine Learning](Agenda/Module2.pdf)
 - Module 3 - Foundations of Deep Learning
 - Module 4 - Physics and Deep Learning
