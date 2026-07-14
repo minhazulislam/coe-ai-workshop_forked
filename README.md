@@ -11,6 +11,7 @@ This repository contains general information about the College of Engineering (C
 
 ## Presentations
 
+- [Content Slides](Slides/)
 - [Playing with AI: Curiosity, Mistakes, and Finding Real Co-Intelligence](Presentations/Day%201%20-%20Playing%20with%20AI%20-%20Curiosity,%20Mistakes,%20and%20Finding%20Real%20Co-Intelligence.pdf) by Tarek N. Aziz
 
 ## Activities
