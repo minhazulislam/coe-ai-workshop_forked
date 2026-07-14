@@ -21,3 +21,7 @@ This repository contains general information about the College of Engineering (C
 Before starting, make sure that you download the CSV [data file](https://drive.google.com/file/d/1RLQihFqsH8pfdVBdv7XGfpJzhP6ok0RO/view?usp=sharing), and make a copy of the [jupyter notebook](https://colab.research.google.com/drive/1loR3LFBVX3OnK8-1d3_IGwkFismnqg5y?usp=sharing). 
 
 This [video](https://www.loom.com/share/27282be4ad81419d8bae63ca79d0e1af) has the basic explanation of how to copy and execute all the steps in the notebook.
+
+## Additional Resources
+
+- [Generative AI for Science](https://github.com/jpliu168/Generative_AI_For_Science/tree/main/codes) by Dr. J. Paul Liu, NC State.
