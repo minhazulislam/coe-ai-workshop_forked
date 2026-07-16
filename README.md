@@ -14,7 +14,7 @@ This repository contains general information about the College of Engineering (C
 - [Content Slides](Slides/)
 - Day 1: [Playing with AI: Curiosity, Mistakes, and Finding Real Co-Intelligence](Presentations/Day%201%20-%20Playing%20with%20AI%20-%20Curiosity,%20Mistakes,%20and%20Finding%20Real%20Co-Intelligence.pdf) by Tarek N. Aziz
 - Day 2: Towards Open Autonomous Labs for Plant and Microbial Agentic Phenotyping by Larry York, ORNL.
-- Day 3: From Prompts to Agents: Scalable, Efficient, and Grounded Agentic AI for Engineering Workflows by Dongkuan Xu, NC State.
+- Day 3: [From Prompts to Agents: Scalable, Efficient, and Grounded Agentic AI for Engineering Workflows](Presentations/Day%203%20-%20From%20Prompts%20to%20Agents.pdf) by Dongkuan Xu, NC State.
 
 ## Activities
 
